@@ -16,7 +16,7 @@
 
 ## 利害關係人目標表 ##
 ## 事件與使用案例表 ##
-![事件表](https://www.dropbox.com/s/9bmyjlwv3atkf8a/%E4%BA%8B%E4%BB%B6%E8%A1%A8.png?dl=0)
+![事件表](https://dl-web.dropbox.com/get/%E4%BA%8B%E4%BB%B6%E8%A1%A8.png?_subject_uid=257929766&w=AAD-R0I6mTuL1K2NATfGTq54xqps4sfjFYnlrrpZd3nw0Q)
 ## 使用案例圖 ##
 ## 個別使用案例的描述 ##
 ## 個別使用案例的活動圖 ##
